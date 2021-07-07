@@ -2,12 +2,12 @@
 Crontab Manager
 ===============
 
-Crontab Manager is a Django app that aims to help manage cronjobs running by `django-crontab <https://pypi.org/project/django-crontab>`. 
+Crontab Manager is a Django app that aims to help manage cronjobs running by `django-crontab <https://pypi.org/project/django-crontab>`_. 
 
 Detailed documentation is in the "docs" directory.
 
-Quick start
-===========
+setup
+=====
 1. install via pip:
 
 .. code:: bash
