@@ -32,7 +32,7 @@ setup
     
     path('crontab_manager/', include('crontab_manager.urls')), 
 
-1. Access the management dashboard at the URL http://<URL-PROJEC>/crontab_manager/.
+1. Access the management dashboard at the URL http://<your-url-project>/crontab_manager/.
 
 license
 =======
