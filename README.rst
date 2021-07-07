@@ -30,7 +30,7 @@ Include the polls URLconf in your project urls.py like this:
 
 .. code:: bash    
     
-    path('crontab_manager/', include('crontab_manager.urls')), 
+    path('crontab_manager/', include('django_crontab_manager.urls')), 
 
 Access the management dashboard at the URL http://<your-url-project>/crontab_manager/.
 
